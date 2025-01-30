@@ -1,5 +1,5 @@
 def say_hello(name):
-    print(f"Hello, {name}")
+    print(f"Good Morning, {name}")
 
 def main():
     print("This is from the main function")
